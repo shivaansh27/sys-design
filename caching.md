@@ -358,4 +358,4 @@ feed:{user_id}:page:{page}    → paginated feed
 
 ---
 
-*Part of [System Design Notes](../README.md) — by [Your Name]*
+*Part of [System Design Notes](../README.md) — by [Shivansh Sharma]*
