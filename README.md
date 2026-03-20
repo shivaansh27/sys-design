@@ -15,35 +15,6 @@ This repo documents my learning journey through real-world architectural challen
 
 ---
 
-## 📂 Structure
-
-```
-system-design-notes/
-│
-├── fundamentals/
-│   ├── load-balancing.md         # Algorithms, types, L4 vs L7
-│   ├── caching.md                # Strategies, eviction policies, Redis vs Memcached
-│   ├── sharding.md               # Horizontal partitioning, consistent hashing
-│   ├── cap-theorem.md            # Consistency vs Availability trade-offs
-│   ├── sql-vs-nosql.md           # When to use what & why
-│   └── rate-limiting.md          # Token bucket, leaky bucket, sliding window
-│
-├── case-studies/
-│   ├── url-shortener.md          # TinyURL / Bitly style design
-│   ├── notification-system.md    # Push, email, SMS at scale
-│   ├── ride-sharing.md           # Uber/Ola — matching, maps, surge pricing
-│   └── news-feed.md              # Twitter/Instagram feed — fanout patterns
-│
-├── diagrams/
-│   ├── url-shortener-hld.png
-│   ├── notification-system-hld.png
-│   └── caching-layers.png
-│
-└── README.md
-```
-
----
-
 ## 🧠 Fundamentals Covered
 
 | Topic | Key Concepts |
@@ -67,13 +38,7 @@ Each case study follows a consistent format:
 4. **Deep Dive** — DB schema, API design, bottlenecks
 5. **Trade-offs** — What we chose and why
 6. **Scaling** — How to handle 10x, 100x growth
-
-### Systems Designed So Far
-- 🔗 [URL Shortener](./case-studies/url-shortener.md) — like TinyURL/Bitly
-- 🔔 [Notification System](./case-studies/notification-system.md) — multi-channel at scale
-- 🚗 [Ride Sharing](./case-studies/ride-sharing.md) — matching engine + real-time location
-- 📰 [News Feed](./case-studies/news-feed.md) — fanout on write vs read
-
+7. 
 ---
 
 ## 🛠️ Tools & Technologies Referenced
@@ -95,10 +60,9 @@ Each case study follows a consistent format:
 
 I'm a Computer Science student with a keen interest in backend systems, distributed architecture, and scalable design. This repo is part of my active preparation and content creation in the system design space.
 
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-
+- 🌐 Portfolio: [https://yourportfolio.com](https://www.shivanshsharma.site/)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/shivanshsharma27/)
+- 
 ---
 
 ## ⭐ If this helped you
