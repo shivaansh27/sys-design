@@ -356,4 +356,5 @@ Result: Zero downtime deployments, automatic failover,
 
 ---
 
-*Part of [System Design Notes](../README.md) — by [Your Name]*
+*Part of [System Design Notes](../README.md) — by [Shivansh Sharma]*
+
