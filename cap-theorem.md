@@ -337,4 +337,4 @@ This means **CAP is not always binary** — you can tune where on the spectrum y
 
 ---
 
-*Part of [System Design Notes](../README.md) — by [Your Name]*
+*Part of [System Design Notes](../README.md) — by [Shivansh Sharma]*
