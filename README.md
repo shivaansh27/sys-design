@@ -38,7 +38,7 @@ Each case study follows a consistent format:
 4. **Deep Dive** — DB schema, API design, bottlenecks
 5. **Trade-offs** — What we chose and why
 6. **Scaling** — How to handle 10x, 100x growth
-7. 
+
 ---
 
 ## 🛠️ Tools & Technologies Referenced
@@ -49,7 +49,6 @@ Each case study follows a consistent format:
 
 ## 📖 Resources I Follow
 
-- 📘 [System Design Interview – Alex Xu](https://www.amazon.in/System-Design-Interview-Insiders-Guide/dp/B08CMF2CQF)
 - 🌐 [ByteByteGo Newsletter](https://blog.bytebytego.com/)
 - 🎥 [Gaurav Sen – YouTube](https://www.youtube.com/@gkcs)
 - 📝 [High Scalability Blog](http://highscalability.com/)
@@ -60,9 +59,9 @@ Each case study follows a consistent format:
 
 I'm a Computer Science student with a keen interest in backend systems, distributed architecture, and scalable design. This repo is part of my active preparation and content creation in the system design space.
 
-- 🌐 Portfolio: [https://yourportfolio.com](https://www.shivanshsharma.site/)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/shivanshsharma27/)
-- 
+- 🌐 Portfolio: [https://www.shivanshsharma.site](https://www.shivanshsharma.site/)
+- 💼 LinkedIn: [linkedin.com/in/shivanshsharma27](https://www.linkedin.com/in/shivanshsharma27/)
+  
 ---
 
 ## ⭐ If this helped you
