@@ -425,4 +425,4 @@ Implementation: Redis counter with TTL
 
 ---
 
-*Part of [System Design Notes](../README.md) — by [Your Name]*
+*Part of [System Design Notes](../README.md) — by [Shivansh Sharma]*
