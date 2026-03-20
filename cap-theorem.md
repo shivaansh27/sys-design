@@ -15,7 +15,7 @@ Proposed by Eric Brewer in 2000, the **CAP Theorem** states:
 ---
 
 ### C — Consistency
-Every read receives the **most recent write** or an error.
+Every read receives the **most recent write** or an error
 
 ```
 User A writes: price = $50
